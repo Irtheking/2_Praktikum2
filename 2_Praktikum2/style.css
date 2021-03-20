@@ -1,0 +1,24 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    
+}
+.formm1 {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    height: 520px;
+    
+}
+.bag1 {
+    margin-top: 100px;
+    
+    height: 320px;
+    padding: 10px;
+    border: solid 0.5px grey;
+    border-radius: 10px;
+}
+.tombol {
+    border: none;
+    padding: 3px;
+}
